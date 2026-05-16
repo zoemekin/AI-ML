@@ -1,2 +1,2 @@
 # AI-ML
-Carolina Leyenda, Zoe Mekin, Candela Muñoz, Sofia Paparo and Edoardo Rigoletti
+Carolina Leyenda, Zoe Mekin, Candela Muñoz, Carla Palmés, Sofia Paparo and Edoardo Rigoletti
