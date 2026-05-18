@@ -66,11 +66,9 @@ spotify_songs.csv
 
 ## 1. Clone the repository
 
-## 2. Create a Python environment
+## 2. Launch Jupyter Notebook
 
-## 3. Launch Jupyter Notebook
-
-## 4. Run the project
+## 3. Run the project
 
 ---
 
