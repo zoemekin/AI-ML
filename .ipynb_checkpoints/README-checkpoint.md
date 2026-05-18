@@ -41,7 +41,7 @@ The project includes:
 # Repository Structure
 
 ```text
-spotify_modelled.ipynb     # Main project notebook
+spotify_modelled.ipynb     # Main project (report+notebook in one)
 spotify_songs.csv          # Dataset used throughout the analysis
 README.md                  # Project documentation
 ```
